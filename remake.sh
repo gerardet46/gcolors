@@ -16,4 +16,4 @@ do
         echo "Fet - $line"
         cd "$_pwd"
     fi
-done < makepkgs
+done < /opt/gcolors/makepkgs

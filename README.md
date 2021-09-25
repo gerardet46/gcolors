@@ -45,7 +45,9 @@ sudo /opt/gcolors/change.sh [theme_name (nord, dracula, ...)]
 Edit the file _/opt/gcolors/makepkgs_, which contains a list of folders that
 contain programs (such us dwm or dmenu) that need to be recompiled.
 
-**NOTE**: To enter HOME directory, please type `~/` instead of `$HOME` in that file,
+**NOTE 1**: Run it with regular user! (**don't run it with sudo**)
+
+**NOTE 2**: To enter HOME directory, please type `~/` instead of `$HOME` in that file,
 as you can see in the example included in this repository
 
 Then, run
