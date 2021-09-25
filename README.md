@@ -17,6 +17,7 @@ and header files will be installed at _/usr/include_ and scripts in _/opt/gcolor
 This are the available color schemes
 - nord
 - dracula
+
 Edit gcolors folder (_/usr/include/gcolors/_) to add/del/change color schemes.
 Don't forget to include them all in _/usr/include/gcolors.h_
 
