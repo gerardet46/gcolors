@@ -52,7 +52,7 @@ as you can see in the example included in this repository
 
 Then, run
 ```bash
-sudo /opt/remake.sh
+/opt/remake.sh
 ```
 to re-make (install clean) those packages
 
