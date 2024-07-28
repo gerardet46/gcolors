@@ -1,8 +1,10 @@
 # GCOLORS - Gerardet Colors
+
+## `This repo is unmaintened!`
+
 This color library (header files and some utilities) are meant to have
 several color schemes (.h files). This color schemes can be included
-directly in C programs (such us suckless programs) to avoid opening Xresources
-file, for example, which is slow.
+directly in C programs (such us suckless programs)
 
 It can also set environment variables with the colors formatted in `#rrggbb`
 
